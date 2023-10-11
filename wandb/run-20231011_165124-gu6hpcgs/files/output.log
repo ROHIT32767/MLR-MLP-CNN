@@ -1,0 +1,11 @@
+   Validation Accuracy  Learning Rate  Epochs
+0             0.637555          0.005    5000
+1             0.637555          0.010    2000
+2             0.637555          0.010    5000
+3             0.611354          0.005    2000
+4             0.611354          0.010    1000
+5             0.606987          0.001    5000
+6             0.606987          0.005    1000
+7             0.593886          0.001    1000
+8             0.593886          0.001    2000
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
